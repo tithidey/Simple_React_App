@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+
+.discount{
+  font-size: 20px;
+  margin-left: 4px;
+  color: white;
+  background-color: red;
+}
+
+.userinfo{
+  width: 200px;
+  height: 100px;
+  border: 1px solid brown;
+  box-shadow: 1px 1px 1px greenyellow;
+}
